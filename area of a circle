@@ -1,9 +1,4 @@
-using System;
 
-namespace project
-{
-    class Program
-    {
         static void Main(string[] args)
         {
             double area;
@@ -23,6 +18,5 @@ namespace project
         
         
 
-    }
-}
+ 
 
